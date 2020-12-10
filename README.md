@@ -7,7 +7,7 @@
 ---
 ### <p align="center" style="color: blue">***Hello Programmers, Here I made a Drawing Application <p align="center" style="color: red">Graph Traversal Visualizer</p> <p align="center" style="color: blue">Using</p> <p align="center" style="color: red">Python Tkinter***</p></p>
 
-<p align="center"> <img alt="image" height="700px"  width="700px" src="https://github.com/SamarpanCoder2002/Graph-Traversing-Visualizer/blob/main/pic.png?raw=true"/><br></p>
+<p align="center"> <img alt="image" height="700px"  width="500px" src="https://github.com/SamarpanCoder2002/Graph-Traversing-Visualizer/blob/main/pic.png?raw=true"/><br></p>
 
 ---
 ### <p align="left" style="color: brown">⚒️ _Important Module Used Here:_</p>
